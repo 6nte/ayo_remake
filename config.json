@@ -1,0 +1,45 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "welcomeChannelId": "",
+  "leaveChannelId": "",
+  "adminRoleId": "",
+  "teamRoleId": "",
+  "supportnotifyID": "",
+  "SupportNotifyRoleId": "",
+  "vorschlagChannelId": "",
+  "abmeldungsembedID": "",
+  "transcriptLogChannelId": "",
+  "setup_supportnotifyID": "",
+  "setup_supportnotifyLogID": "",
+  "bilderChannelId": "",
+  "logoUrl": "",
+  "bannerUrl": "",
+  "colors": {
+    "main": "#0082ff",
+    "success": "#00ff00",
+    "error": "#ff0000",
+    "warning": "#ffff00",
+    "info": "#2f3136"
+  },
+  "status": {
+    "type": "WATCHING", 
+    "text": "auf Tickets"
+  },
+  "ticketCategories": {
+    "category1": "",
+    "category2": "",
+    "category3": "",
+    "category4": "",
+    "category5": ""
+  },
+  "logs": {
+    "memberLog": "",
+    "moderationLog": "",
+    "channelLog": "",
+    "roleLog": "",
+    "messageLog": "",
+    "voiceLog": ""
+  }
+}
