@@ -122,4 +122,4 @@ Beispielstruktur siehe vorhandene Commands wie `ban.js`.
 
 ---
 
-Viel Spaß mit ayo_hopeleaks!
+Viel Spaß mit den Bot!
