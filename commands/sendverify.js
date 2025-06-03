@@ -6,7 +6,7 @@ const {
     ButtonStyle,
     ActionRowBuilder
 } = require('discord.js');
-const { adminRoleId, verifyRoleId, colors } = require('../config.json');
+const { adminRoleId, colors, verifyRoleId } = require('../config.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
